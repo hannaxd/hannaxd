@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">im sorta a web dev but i also suffer with go, rust and nix<br><br>she/they, 19, arch user</p>
+<p align="center">im sorta a web dev but i also suffer with go, rust and nix<br><br>she/they, void user</p>
 
 ###
 
@@ -37,13 +37,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
 </div>
-
-###
-
-<h2 align="center">Cosmetics</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/nixfemby/nixfemby/output/snake.svg" alt="Snake animation" />
-
-###
